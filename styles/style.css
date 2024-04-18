@@ -244,12 +244,12 @@ nav ul li a {
 }
 
 .porfolio-cover {
-    height: 250px;
+    height: 10px;
 }
 
 .porfolio-cover img {
-    width: 100%;
-    height: 100%;
+    width: 10%;
+    height: 10%;
     object-fit: cover;
 }
 
